@@ -1,0 +1,3 @@
+https://localhost:44300/api/Categorys/Get-all-Categorys
+
+https://localhost:44300/api/Subjects/Get-all-Subjects
